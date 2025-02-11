@@ -1,0 +1,19 @@
+{
+  "characteristic.action": "Action",
+  "characteristic.value": "Value",
+  "characteristic.add": "Add",
+  "characteristic.next": "Next",
+  "characteristic.done": "Done",
+  "characteristic.name": "Name",
+  "characteristic.sureToDelete": "Sure To Delete?",
+  "characteristic.yes": "Yes",
+  "characteristic.no": "No",
+  "characteristic.stepValidation": "You must complete current step !",
+  "characteristic.back": "Back",
+  "characteristic.required": "Please fill your required",
+  "characteristic.placeholder": "Please Select Your Title",
+  "characteristic.close": "close",
+  "characteristic.reset": "reset",
+  "characteristic.alreadyEntered": "This Characteristic Has Been Already Entered",
+  "characteristic.nameValidation": "Please Enter Your Name"
+}

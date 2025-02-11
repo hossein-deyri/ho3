@@ -1,0 +1,19 @@
+{
+  "characteristic.action": "عملیات",
+  "characteristic.next": "ادامه",
+  "characteristic.value": "مقدار",
+  "characteristic.add": "افزودن",
+  "characteristic.done": "ثبت",
+  "characteristic.name": "نام",
+  "characteristic.sureToDelete": "از حذف این مورد اطمینان دارید؟",
+  "characteristic.yes": "بله",
+  "characteristic.no": "خیر",
+  "characteristic.stepValidation": "لطفا اطلاعات این صفحه را تکمیل کنید!",
+  "characteristic.back": "قبلی",
+  "characteristic.required": "لطفا مقادیر مورد نظر را وارد کنید",
+  "characteristic.placeholder": " لطفا نام خود را وارد کنید ...",
+  "characteristic.close": "بستن",
+  "characteristic.alreadyEntered": "این مشخصات از قبل وجود دارد!",
+  "characteristic.nameValidation": "لطفاً مشخصه‌ موردنظر را انتخاب نمایید"
+
+}

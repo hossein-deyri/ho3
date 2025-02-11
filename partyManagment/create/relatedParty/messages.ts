@@ -1,0 +1,35 @@
+const key = "relatedParty";
+
+const messages = {
+  title: `${key}.title`,
+  PleaseFillYourGenderInPartyInformation: `${key}.PleaseFillYourGenderInPartyInformation`,
+  PleaseFillYourBirthDateInPartyInformation: `${key}.PleaseFillYourBirthDateInPartyInformation`,
+  PleaseFillYourFatherNameInPartyInformation: `${key}.PleaseFillYourFatherNameInPartyInformation`,
+  PleaseFillYourPostalAddressInContactMedium: `${key}.PleaseFillYourPostalAddressInContactMedium`,
+  PleaseFillYourRelatedParty: `${key}.PleaseFillYourRelatedParty`,
+  TheFormHasBeenCompletedSuccessfully: `${key}.TheFormHasBeenCompletedSuccessfully`,
+  CompleteTheFollowingFieldsThenSelectTheFinishOption: `${key}.CompleteTheFollowingFieldsThenSelectTheFinishOption`,
+  AgreeAndContinue: `${key}.AgreeAndContinue`,
+  FillInTheInformation: `${key}.FillInTheInformation`,
+  add: `${key}.add`,
+  searchByIdentificationId: `${key}.searchByIdentificationId`,
+  finish: `${key}.finish`,
+  back: `${key}.back`,
+  partyTypes: `${key}.partyTypes`,
+  partyTypesPlaceHolder: `${key}.partyTypesPlaceHolder`,
+  pleaseSelectTheType: `${key}.pleaseSelectTheType`,
+  pleaseChoosePartyType: `${key}.pleaseChoosePartyType`,
+  search: `${key}.search`,
+  pleaseSelectTheRole: `${key}.pleaseSelectTheRole`,
+  done: `${key}.done`,
+  IndividualPartyCreated: `${key}.IndividualPartyCreated`,
+  searchByGivenName: `${key}.searchByGivenName`,
+  searchByFamilyName: `${key}.searchByFamilyName`,
+  next: `${key}.next`,
+  role: `${key}.role`,
+  sureToDelete: `${key}.sureToDelete`,
+  yes: `${key}.yes`, 
+  no: `${key}.no`, 
+};
+
+export default messages;
